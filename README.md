@@ -31,7 +31,7 @@
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pri11ya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/PriyaPaul) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-paul-582447253/)
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=priyapaul-beep&theme=radical&no-frame=false&no-bg=true&margin-w=4)
